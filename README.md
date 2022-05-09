@@ -1,8 +1,4 @@
-# name
-
-  
-    ![badge](https://img.shields.io/badge/license-BSD-blue)
-    
+# y
 
   ## Table of Contents
   1. [Installation](#installation)
@@ -13,31 +9,31 @@
   6. [Questions](#questions)
 
   ## [Description](#table-of-contents)
-  name aa
+  y
 
   ## [Installation](#table-of-contents)
-  inquirer
+  y
 
   ## [Usage](#table-of-contents)
-  inquirer
+  y
   
   ## License
   
     ## [License](#table-of-contents)
     The application is covered under the following license:
     
-    [BSD](https://choosealicense.com/licenses/BSD)
+    [GPL](https://choosealicense.com/licenses/GPL)
     
     
 
   ## Contributing
-  readme generator
+  y
 
   ## [Tests](#table-of-contents)
-  node index.js
+  y
 
   ## [Questions](#table-of-contents)
   Contact Info:
-  [GitHub](https://github.com/name)
-  [Email: name@email.com](mailto:name@email.com)
+  [GitHub](https://github.com/trevor)
+  [Email: trevor](mailto:trevor)
   
