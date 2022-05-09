@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TrevorS2001/ProReadMe/issues"
   },
-  "homepage": "https://github.com/TrevorS2001/ProReadMe#readme"
+  "homepage": "https://github.com/TrevorS2001/ProReadMe#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
